@@ -511,7 +511,7 @@ section::Harmonic measures
 There are 3 main harmonic measures implemented in DissonanceLib. See HarmonicMetric for more info.
 
 subsection::harmonicity
-See above for a discussion.
+See indigestibility and harmonicityu above for a discussion.
 
 subsection::harmonicDistance
 James Tenney's harmonic distance. Defined as a city-block metric of harmonic lattices (Discussed in his article, "John Cage and the Theory of Harmony", 1983).
