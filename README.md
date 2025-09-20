@@ -1,6 +1,6 @@
 # DissonanceLib
 
-A library of psychoacoustic dissonance curves together with harmonic analysis functions for SuperCollider . Psychoacoustic and harmonic math to numbers and collections.
+A library of psychoacoustic dissonance curves together with harmonic analysis functions for SuperCollider. Psychoacoustic and harmonic math to numbers and collections.
 
 DissonanceLib depends on quarks: MathLib, VectorSpace and ZArchive. Optionally, the GNUPlot quark (and GNUPlot itself!) need to be installed in order to plot harmonic spaces and fields in PitchSet
 
